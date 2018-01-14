@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/hal9k"
-url: "https://HyeongminPark2.github.io"
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
