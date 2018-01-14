@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/hal9k"
+baseurl: ""
 url: ""
 
 # THEME-SPECIFIC CONFIGURATION
