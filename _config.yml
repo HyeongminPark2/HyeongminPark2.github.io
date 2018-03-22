@@ -14,7 +14,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
     <h3>Hyeongmin <font color="#d11010">&lt;HAL9K/&gt</font> Park</h3>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+    <h5><i>"Open the Pod bay doors, HAL."<i></h5>
+
+  header_text_feature_image: assets/img/pexels/bridge.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
